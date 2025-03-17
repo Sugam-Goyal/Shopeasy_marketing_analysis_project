@@ -59,9 +59,10 @@ The checkout drop-off rate is 74.4%, meaning nearly 3 out of 4 customers abandon
 
 - High & Low Performing Products by Conversion Rate
 
-High-performing products (Conversion Rate >6%) include products like Soccer Ball (7.54%), Hockey Stick (7.54%), Cycling Helmet (6.22%), Climbing Rope (6.25%), etc.
+High-performing products (Conversion Rate >6%) include products like Hockey Stick (7.54%), Ski Boots(7%), Surfboard(6.56%), etc.
 
-Low-performing products (Conversion Rate <4%) include Basketball (3.47%), Dumbbells (3.77%), Running Shoes (3.33%), etc. These products have comparatively weaker conversion rates, potentially due to pricing, quality, customer preferences, or lower visibility in marketing campaigns.
+Low-performing products (Conversion Rate <4%) include Basketball (3.47%), Dumbbells (3.77%), Swim Goggles (2.79%), etc. These products have comparatively weaker conversion rates, potentially due to pricing, quality, customer preferences, or lower visibility in marketing campaigns.
+![Conversion Rate Deep Dive](https://github.com/user-attachments/assets/1d15f28d-db1a-4358-92cc-bdd2b0481953)
 
 
 
