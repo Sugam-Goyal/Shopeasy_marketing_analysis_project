@@ -46,6 +46,7 @@ The Marketing Analysis overview is shown below
 
 
 
+![Marketing Dashboard](https://github.com/user-attachments/assets/47ad1799-5032-477b-bde9-5828c338ae16)
 
 
 
