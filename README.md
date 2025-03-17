@@ -29,7 +29,7 @@ The Entity-Relationship Diagram (ERD) below illustrates the relationships betwee
 
 ## Executive Summary
 ### Overview of findings
-1.  Conversion rate
+1.  Conversion Rate
 - The overall conversion rate from Jan 2023 to Dec 2025 stands at 5.04%.
 - Notable peaks were observed in Jan 2023, Jan 2024, and Sep 2025. A sharp decline was recorded in July 2025 (1.65%), but conversion rates have since shown signs of recovery.
 
@@ -42,11 +42,26 @@ The Entity-Relationship Diagram (ERD) below illustrates the relationships betwee
 - The average customer rating over the period is 3.69, fluctuating between 3.3 and 4.1.
 - While relatively stable, consistently high ratings (4.0+) have been less frequent, indicating room for improvement in customer satisfaction.
 
-The Marketing Analysis overview is shown below
-
-
+The Marketing Analysis overview is shown below:
 
 ![Marketing Dashboard](https://github.com/user-attachments/assets/47ad1799-5032-477b-bde9-5828c338ae16)
+
+## Insights Deep Dive
+
+Conversion Rate 
+- Homepage Click-Through Rate (CTR) vs. Product Page CTR
+
+The homepage CTR stands at 67.8%, nearly twice the product page CTR of 35.2%. This suggests that while users are interested in exploring products, they may not find product pages engaging or persuasive enough to drive conversions. Improving product descriptions, images, etc could enhance engagement.
+
+- Checkout Drop-off Rate
+
+The checkout drop-off rate is 74.4%, meaning nearly 3 out of 4 customers abandon their cart at the final step. This suggests significant friction in the purchasing process, which may stem from unexpected fees, a lengthy checkout process, or limited payment options.
+
+- High & Low Performing Products by Conversion Rate
+
+High-performing products (Conversion Rate >6%) include products like Soccer Ball (7.54%), Hockey Stick (7.54%), Cycling Helmet (6.22%), Climbing Rope (6.25%), etc.
+
+Low-performing products (Conversion Rate <4%) include Basketball (3.47%), Dumbbells (3.77%), Running Shoes (3.33%), etc. These products have comparatively weaker conversion rates, potentially due to pricing, quality, customer preferences, or lower visibility in marketing campaigns.
 
 
 
