@@ -42,7 +42,7 @@ The Entity-Relationship Diagram (ERD) below illustrates the relationships betwee
 - The average customer rating over the period is 3.69, fluctuating between 3.3 and 4.1.
 - While relatively stable, consistently high ratings (4.0+) have been less frequent, indicating room for improvement in customer satisfaction.
 
-
+The Marketing Analysis overview is shown below
 
 
 
