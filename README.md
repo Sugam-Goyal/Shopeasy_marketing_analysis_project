@@ -8,15 +8,15 @@ Key Focus Areas:
 
 - Conversion Rate, Click-Through Rate (CTR) and Drop-off Rate Analysis
 - Customer Engagement Analysis
-- Customer ratings Analysis
+- Customer Ratings Analysis
 
 Project Goal:
 
 To provide data-driven recommendations that enhance conversion rates and customer engagement, ultimately improving ShopEasy’s marketing effectiveness.
 
-An interactive PowerBI Dashboard can be downloaded [here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
+**Power BI Dashboard:** [Download Here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
 
-SQL queries used to organise and clean the data can be viewed [here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/blob/main/marketing_analysis_sql_queries.sql)
+[View SQL Queries for Data Cleaning & Analysis](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/blob/main/marketing_analysis_sql_queries.sql)
 
 ## Data Structure Overview
 This project utilizes multiple datasets as listed below:
@@ -36,10 +36,10 @@ The Entity-Relationship Diagram (ERD) below illustrates the relationships betwee
 ### Overview of findings
 1. Conversion Rate
 - The overall conversion rate from Jan 2023 to Dec 2025 stands at 5.04%.
-- Notable peaks were observed in Jan 2023, Jan 2024, and Sep 2025 of 10%, 9.5% and 9% respectively.  A sharp decline was recorded in July 2025 (1.65%), but conversion rates have since shown signs of recovery.
+- Notable peaks were observed in January 2023 (10.08%), January 2024 (9.5%), and September 2025 (9.0%)..  A sharp decline was recorded in July 2025 (1.65%), but conversion rates have since shown signs of recovery.
 
 2. Customer Engagement
-- Engagement (views, clicks, and likes) has steadily declined since Jan 2023, for example, views have come down from 5 million(2023) to 1 million(2025) and so does clicks and likes.
+- Engagement (views, clicks, and likes) has steadily declined since January 2023. For example, total views dropped from 5 million (2023) to 1 million (2025), with similar declines in clicks and likes.
 - A slight resurgence began in Sep 2025, but engagement levels remain significantly lower than in 2023.
 - The long-term decline suggests a drop in customer interest or reduced marketing effectiveness.
 
