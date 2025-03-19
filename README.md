@@ -23,6 +23,7 @@ This project utilizes multiple datasets as listed below:
 - Fact_Customer_Reviews: Stores customer ratings (1-5) for various products.
 - Date Table: A custom table created in Power BI to facilitate reporting and time-based analysis.
 
+
 The Entity-Relationship Diagram (ERD) below illustrates the relationships between key data tables used in the analysis:
 
 ![ER Diagram](https://github.com/user-attachments/assets/65e1cf84-cb92-483d-8cb2-ecec20fc3e76)
@@ -78,14 +79,31 @@ The related dashboard is shown below:
 
  ![Screenshot 2025-03-18 230410](https://github.com/user-attachments/assets/f4ba7624-7dfe-4ef6-80dd-362e937b6c12)
 
-3. Customer Ratings
+3. Customer Rating
 - Customer Ratings Distribution
   - The majority of customer ratings are in the higher range, indicating overall positive feedback.
   - 4-star ratings (431) and 5-star ratings (409) dominate, while lower ratings (1-star: 80, 2-star: 153) account for a smaller proportion.
 - Product Ratings
-  - Top-rated products include climbing rope(3.91), swim goggles(3.84), and cycling helmets(3.80), reflecting strong customer satisfaction.
-  - Low-rated products include yoga mats(3.52), running shoes(3.57), and volleyball(3.58), indicating potential concerns.
+  - Top-rated products include climbing rope(3.91), swim goggles(3.84), cycling helmets(3.80), reflecting strong customer satisfaction.
+  - Low-rated products include golf clubs(3.48), running shoes(3.57), volleyball(3.58), indicating potential concerns.
   - Declining Ratings Over Time: Some products have seen a steady decline in ratings over the past three years, which may require further investigation. Running shoes: Dropped from 3.76 in 2023 to 3.48 in 2025. Surfboard: Declined from 4.00 in 2023 to 3.46 in 2025. This downward trend could be linked to pricing, quality issues, or changing customer expectations, warranting a deeper analysis.
+
+ Customer ratings dashboard is as follows:
+![Customer Ratings](https://github.com/user-attachments/assets/8003b887-c79b-4234-96a3-9d2595d48a0a)
+
+## Recommendations
+1. Boost Conversion Rate
+-  Enhance Product Pages: Improve descriptions, images, and customer reviews to increase engagement beyond the homepage.
+-  Reduce Checkout Drop-off: Simplify the checkout process, offer multiple payment options, and ensure transparency in pricing to lower the 74.4% drop-off rate.
+-  Optimize Low-Performing Products: Reevaluate pricing, promotions, and marketing strategies for products with low conversion rates (e.g., dumbbells, swim goggles).
+2. Increase Customer Engagement
+- Revamp Content Strategy: Focus on high-performing formats like blogs (36% of views) and videos (33%), while reassessing the role of social media (declined to 31% in 2025).
+- Improve Interaction Rates: Use compelling calls to action, interactive content, and engaging storytelling to boost clicks and likes.
+- Monitor Engagement Trends: Leverage analytics to track shifting audience preferences and adapt content accordingly.
+3. Improve Customer Ratings & Product Perception
+- Address Declining Product Ratings: Investigate reasons behind rating drops (e.g., running shoes from 3.76 to 3.48) through surveys and feedback analysis.
+- Enhance Product Quality & Support: Work with suppliers to improve materials, durability, and pricing of low-rated products (e.g., golf clubs, volleyball).
+- Leverage High-Rated Products: Promote top-rated items (climbing rope, swim goggles) with testimonials, badges, and featured listings.
   
 
 
