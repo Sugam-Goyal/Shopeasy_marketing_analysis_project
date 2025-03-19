@@ -1,5 +1,5 @@
 # Shopeasy_marketing_analysis_project
-[Dashboard download link](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
+
 ## Project Background and Overview
 
 ShopEasy, an online retail business, is facing declining customer engagement and conversion rates despite launching several new online marketing campaigns. This project aims to analyze marketing performance and identify areas for improvement.
@@ -13,6 +13,8 @@ Key Focus Areas:
 Project Goal:
 
 To provide data-driven recommendations that enhance conversion rates and customer engagement, ultimately improving ShopEasy’s marketing effectiveness.
+
+An interactive PowerBI Dashboard can be downloaded [here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
 
 ## Data Structure Overview
 This project utilizes multiple datasets as listed below:
