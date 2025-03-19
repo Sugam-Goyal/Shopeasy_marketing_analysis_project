@@ -1,5 +1,5 @@
 # Shopeasy_marketing_analysis_project
-[Dashboard download link]()
+[Dashboard download link](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
 ## Project Background and Overview
 
 ShopEasy, an online retail business, is facing declining customer engagement and conversion rates despite launching several new online marketing campaigns. This project aims to analyze marketing performance and identify areas for improvement.
