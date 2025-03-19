@@ -97,7 +97,7 @@ The related dashboard is shown below:
 
 ## Recommendations
 1. Boost Conversion Rate
--  Enhance Product Pages: Improve descriptions, images, and customer reviews to increase engagement beyond the homepage.
+-  Enhance Product Pages: Improve descriptions, images, and customer reviews to increase engagement beyond the homepage. This will help tackle low Productpage CTR of 35%.
 -  Reduce Checkout Drop-off: Simplify the checkout process, offer multiple payment options, and ensure transparency in pricing to lower the 74.4% drop-off rate.
 -  Optimize Low-Performing Products: Reevaluate pricing, promotions, and marketing strategies for products with low conversion rates (e.g., dumbbells, swim goggles).
 2. Increase Customer Engagement
