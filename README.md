@@ -71,7 +71,7 @@ The related dashboard is shown below:
 2. Customer Engagement
 - Steady Decline in Engagement
   -  Views, clicks, and likes have consistently declined, signaling a significant drop in customer engagement.
-  -  From a peak of 572,000 views in February 2023, engagement hit a low of just 46,448 views in September 2025, marking a decline of over 90%. A similar trend is observed for clicks and likes. However, there has been a slight recovery in engagement since September 2025.
+  -  From a peak of 5 million views in 2023, engagement hit a low of 1 million views views in 2025, marking a decline of nearly 80%. A similar trend is observed for clicks and likes. However, there has been a slight recovery in engagement since September 2025.
 - Shift in Content-Type Contribution
   -  The composition of content driving engagement has changed over time. In 2023 and 2024, social media accounted for around 34% of total views. However, by 2025, its share dropped to 31%, indicating reduced effectiveness.
   -  Blog content now generates the highest share of views (36%), followed by video (33%), showing a shift in audience preference.
