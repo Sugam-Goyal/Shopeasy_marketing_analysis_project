@@ -15,6 +15,7 @@ Project Goal:
 To provide data-driven recommendations that enhance conversion rates and customer engagement, ultimately improving ShopEasy’s marketing effectiveness.
 
 An interactive PowerBI Dashboard can be downloaded [here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/raw/main/Marketing_Analytics.pbix)
+
 SQL queries used to organise and clean the data can be viewed [here](https://github.com/Sugam-Goyal/Shopeasy_marketing_analysis_project/blob/main/marketing_analysis_sql_queries.sql)
 
 ## Data Structure Overview
